@@ -6,56 +6,56 @@
             "id": 1,
             "date": "10 ივლისი, 2020",
             "description": "25 თებერვლიდან 10 მარტის ჩათვლით, შეიძინეთ ჰუბერტის ნებისმიერი პროდუქტი 25%-იანი ფასდაკლებით!",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer1_1.png"
         },
 
         {
             "id": 2,
             "date": "10 ივლისი, 2020",
             "description": "24 - 31 ივლისს, ფრანგული ბრენდი ნორევა გთავაზობთ 30%-50% ფასდაკლებას სრულ ასორტიმენტზე",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer2_1.png"
         },
 
         {
             "id": 3,
             "date": "10 ივლისი, 2020",
             "description": "თურქული წარმოების ბავშვის საფენები პიკოლო განახლებული დიზაინითა და ხელმისაწვდომი ფასით",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer3.png"
         },
 
         {
             "id": 4,
             "date": "10 ივლისი, 2020",
             "description": "ეწვიეთ ავერსს და ისარგებლეთ თქვენს რჩეულ ბრენდზე საუკეთესო შემოთავაზებით!",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer4.png"
         },
 
         {
             "id": 5,
             "date": "10 ივლისი, 2020",
             "description": "1 მარტიდან 10 მარტის ჩათვლით, სთრეითის შერჩეულ ასორტიმენტზე სპეციალური ფასი ვრცელდება!",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer5.png"
         },
 
         {
             "id": 6,
             "date": "10 ივლისი, 2020",
             "description": "25 თებერვლიდან 8 მარტის ჩათვლით, შეიძინეთ მუსტელას სრული ასორტიმენტი 25%-იანი ფასდაკლებით!",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer6.png"
         },
 
         {
             "id": 7,
             "date": "10 ივლისი, 2020",
             "description": "1 მარტიდან 10 მარტის ჩათვლით, შეიძინეთ პასტა დელ კაპიტანოს რჩეული პროდუქცია განსაკუთრებულ ფასად!",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer7.png"
         },
 
         {
             "id": 8,
             "date": "10 ივლისი, 2020",
             "description": "25 თებერვლიდან 8 მარტის ჩათვლით, ისარგებლეთ 20%-იანი ფასდაკლებით ავენტის სრულ ასორტიმენტზე!",
-            "src": "dummy"
+            "src": "https://www.linkpicture.com/q/offer8.png"
         }
     ]
     
