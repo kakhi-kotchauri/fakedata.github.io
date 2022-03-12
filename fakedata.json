@@ -23,6 +23,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 2,
             "Category": "ჰიგიენა",
@@ -45,6 +46,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 3,
             "Category": "კოსმეტიკა",
@@ -67,6 +69,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 4,
             "Category": "თმის მოვლა",
@@ -89,6 +92,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 5,
             "Category": "სამედიცინო მოწყობილობები",
@@ -111,6 +115,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 6,
             "Category": "მდეიკამენტები",
@@ -133,6 +138,7 @@
             "popular": false,
             "essential": false
         },
+        
         {
             "id": 7,
             "Category": "სამედიცინო მოწყობილობები",
@@ -155,6 +161,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 8,
             "Category": "ბავშვები",
@@ -177,6 +184,7 @@
             "popular": false,
             "essential": true
         },
+        
         {
             "id": 9,
             "Category": "ბავშვები",
@@ -199,6 +207,7 @@
             "popular": true,
             "essential": false
         },
+        
         {
             "id": 10,
             "Category": "მედიკამენტი",
@@ -221,6 +230,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 11,
             "Category": "მედიკამენტი",
@@ -243,6 +253,7 @@
             "popular": false,
             "essential": true
         },
+        
         {
             "id": 12,
              "Category": "მედიკამენტი",
@@ -265,6 +276,7 @@
             "popular": true,
             "essential": false
         },
+        
         {
             "id": 13,
              "Category": "მედიკამენტი",
@@ -287,6 +299,7 @@
             "popular": true,
             "essential": true
         },
+        
         {
             "id": 14,
              "Category": "მედიკამენტი",
@@ -309,6 +322,7 @@
             "popular": false,
             "essential": false
         },
+        
         {
             "id": 15,
              "Category": "მედიკამენტი",
@@ -331,6 +345,7 @@
             "popular": false,
             "essential": true
         },
+        
         {
             "id": 16,
              "Category": "მედიკამენტი",
