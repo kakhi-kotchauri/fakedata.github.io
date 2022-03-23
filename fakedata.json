@@ -374,9 +374,9 @@
         
         {
             "id": 18,
-             "Category": "დიაგნოსტიკა",
+             "Category": "პირველადი დახმარება",
             "subCategory": "febricide",
-            "title": "წნევის საზომი აპარატი",
+            "title": "ბინტი",
             "img": "",
             "img2": "",
             "img3": "",
@@ -420,12 +420,12 @@
         
         {
             "id": 20,
-             "Category": "მედიკამენტი",
+             "Category": "ორთოპედია",
             "subCategory": "Essential Oils",
             "title": "ვოლკორდინი",
             "img": "https://www.linkpicture.com/q/valocordin.png",
-            "img2": "https://www.linkpicture.com/q/valokordin1.png",
-            "img3": "https://www.linkpicture.com/q/valokordin2.png",
+            "img2": "https://www.linkpicture.com/q/valokordin2.png",
+            "img3": " https://www.linkpicture.com/q/valokordin1.png",
             "price": 35,
             "discountedPrice": 30,
             "manufacturer": "Capsule OEM",
@@ -443,11 +443,11 @@
         
           {
             "id": 18,
-             "Category": "მედიკამენტი",
+             "Category": "ოპტიკა",
             "subCategory": "febricide",
-            "title": "რედუქსინი",
-            "img": "https://www.linkpicture.com/q/reduxin.png",
-            "img2": "https://www.linkpicture.com/q/reduxin1.png",
+            "title": "რედუქსინი",     
+            "img": "https://www.linkpicture.com/q/reduxin1.png",
+            "img2": "https://www.linkpicture.com/q/reduxin.png",
             "img3": "https://www.linkpicture.com/q/reduxin2.jpg",
             "price": 37,
             "discountedPrice": 30,
@@ -650,12 +650,12 @@
         
         {
             "id": 5,
-            "Category": "მედიკამენტი",
+            "Category": "პირველადი დახმარება",
             "subCategory": "Shampoo",
-            "title": " დეზლორატადინი",
-            "img": "https://www.linkpicture.com/q/desloratadin1.png",
-            "img2": "https://www.linkpicture.com/q/desloratadin1.png",
-            "img3": "https://www.linkpicture.com/q/desloratadin2.png",
+            "title": "ბამბა",
+            "img": "",
+            "img2": "",
+            "img3": "",
             "price": 16,
             "discountedPrice": 30,
             "manufacturer": "ივ როშე",
